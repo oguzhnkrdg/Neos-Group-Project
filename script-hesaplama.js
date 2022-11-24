@@ -14,7 +14,7 @@ var kays = document.getElementById("kaysuresi")
 var gezici = document.getElementById("gezici")
 
 function SabitMasaHesapla() {
-    document.getElementById("ucretdiv").style.display = "block"
+    document.getElementById("ucretdivsabit").style.display = "block"
     var sonuc = 0
     var sabit = 200
     var vergisiz = 0
