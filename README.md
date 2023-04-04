@@ -1,5 +1,5 @@
 # Neos-Group-Project
-Neos Group Projects
+Neos Group Projects Tamamı ile Eğitim Amacı İle Yapılmıştır
 [Live Preview](https://oguzhnkrdg.github.io/Neos-Group-Project/) <br/>
 Front-end: Oğuzhan Karadağ <br/>
 Sabit Masa Hesaplama: Oğuzhan Karadağ <br/>
